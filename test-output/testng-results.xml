@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-22T11:20:43 EDT" name="orangeart" finished-at="2023-06-22T11:21:13 EDT" duration-ms="30525">
+    <groups>
+    </groups>
+    <test started-at="2023-06-22T11:20:43 EDT" name="TestNG" finished-at="2023-06-22T11:21:13 EDT" duration-ms="30525">
+      <class name="testlayer.LoginTestClass">
+        <test-method is-config="true" signature="initialSetup()[pri:0, instance:testlayer.LoginTestClass@31304f14]" started-at="2023-06-22T11:20:43 EDT" name="initialSetup" finished-at="2023-06-22T11:20:47 EDT" duration-ms="4216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetup -->
+        <test-method signature="titlemethod()[pri:1, instance:testlayer.LoginTestClass@31304f14]" started-at="2023-06-22T11:20:47 EDT" name="titlemethod" finished-at="2023-06-22T11:20:47 EDT" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titlemethod -->
+        <test-method is-config="true" signature="closeSetup()[pri:0, instance:testlayer.LoginTestClass@31304f14]" started-at="2023-06-22T11:20:47 EDT" name="closeSetup" finished-at="2023-06-22T11:20:47 EDT" duration-ms="209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSetup -->
+        <test-method is-config="true" signature="initialSetup()[pri:0, instance:testlayer.LoginTestClass@31304f14]" started-at="2023-06-22T11:20:48 EDT" name="initialSetup" finished-at="2023-06-22T11:20:51 EDT" duration-ms="3271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetup -->
+        <test-method signature="loginmethod(java.lang.String,java.lang.String)[pri:2, instance:testlayer.LoginTestClass@31304f14]" started-at="2023-06-22T11:20:51 EDT" name="loginmethod" data-provider="Details" finished-at="2023-06-22T11:20:51 EDT" duration-ms="542" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginmethod -->
+        <test-method is-config="true" signature="closeSetup()[pri:0, instance:testlayer.LoginTestClass@31304f14]" started-at="2023-06-22T11:20:51 EDT" name="closeSetup" finished-at="2023-06-22T11:20:52 EDT" duration-ms="369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSetup -->
+        <test-method is-config="true" signature="initialSetup()[pri:0, instance:testlayer.LoginTestClass@31304f14]" started-at="2023-06-22T11:20:52 EDT" name="initialSetup" finished-at="2023-06-22T11:20:57 EDT" duration-ms="4897" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetup -->
+        <test-method signature="loginmethod(java.lang.String,java.lang.String)[pri:2, instance:testlayer.LoginTestClass@31304f14]" started-at="2023-06-22T11:20:57 EDT" name="loginmethod" data-provider="Details" finished-at="2023-06-22T11:20:57 EDT" duration-ms="575" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admini]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginmethod -->
+        <test-method is-config="true" signature="closeSetup()[pri:0, instance:testlayer.LoginTestClass@31304f14]" started-at="2023-06-22T11:20:57 EDT" name="closeSetup" finished-at="2023-06-22T11:20:58 EDT" duration-ms="353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSetup -->
+        <test-method is-config="true" signature="initialSetup()[pri:0, instance:testlayer.LoginTestClass@31304f14]" started-at="2023-06-22T11:20:58 EDT" name="initialSetup" finished-at="2023-06-22T11:21:02 EDT" duration-ms="4271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetup -->
+        <test-method signature="loginmethod(java.lang.String,java.lang.String)[pri:2, instance:testlayer.LoginTestClass@31304f14]" started-at="2023-06-22T11:21:02 EDT" name="loginmethod" data-provider="Details" finished-at="2023-06-22T11:21:03 EDT" duration-ms="599" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Administratorbhaiya]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginmethod -->
+        <test-method is-config="true" signature="closeSetup()[pri:0, instance:testlayer.LoginTestClass@31304f14]" started-at="2023-06-22T11:21:03 EDT" name="closeSetup" finished-at="2023-06-22T11:21:03 EDT" duration-ms="323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSetup -->
+        <test-method is-config="true" signature="initialSetup()[pri:0, instance:testlayer.LoginTestClass@31304f14]" started-at="2023-06-22T11:21:03 EDT" name="initialSetup" finished-at="2023-06-22T11:21:07 EDT" duration-ms="4216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetup -->
+        <test-method signature="loginmethod(java.lang.String,java.lang.String)[pri:2, instance:testlayer.LoginTestClass@31304f14]" started-at="2023-06-22T11:21:07 EDT" name="loginmethod" data-provider="Details" finished-at="2023-06-22T11:21:08 EDT" duration-ms="561" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[holabhai]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginmethod -->
+        <test-method is-config="true" signature="closeSetup()[pri:0, instance:testlayer.LoginTestClass@31304f14]" started-at="2023-06-22T11:21:08 EDT" name="closeSetup" finished-at="2023-06-22T11:21:08 EDT" duration-ms="343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSetup -->
+        <test-method is-config="true" signature="initialSetup()[pri:0, instance:testlayer.LoginTestClass@31304f14]" started-at="2023-06-22T11:21:08 EDT" name="initialSetup" finished-at="2023-06-22T11:21:12 EDT" duration-ms="4160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetup -->
+        <test-method signature="loginmethod(java.lang.String,java.lang.String)[pri:2, instance:testlayer.LoginTestClass@31304f14]" started-at="2023-06-22T11:21:12 EDT" name="loginmethod" data-provider="Details" finished-at="2023-06-22T11:21:13 EDT" duration-ms="553" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admaano]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[billyboy]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginmethod -->
+        <test-method is-config="true" signature="closeSetup()[pri:0, instance:testlayer.LoginTestClass@31304f14]" started-at="2023-06-22T11:21:13 EDT" name="closeSetup" finished-at="2023-06-22T11:21:13 EDT" duration-ms="373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSetup -->
+      </class> <!-- testlayer.LoginTestClass -->
+    </test> <!-- TestNG -->
+  </suite> <!-- orangeart -->
+</testng-results>
